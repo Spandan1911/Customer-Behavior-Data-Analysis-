@@ -23,7 +23,10 @@
 - 👥 Customer Segmentation
 - 📅 Monthly & Yearly Sales Trends
 - 📌 SQL-Based Business Analysis
-
+- 📉 KPI Monitoring & Visualization
+- 📂 Data Cleaning & Preprocessing
+- 📥 Business Insight Generation
+  
 Data Analytics Techniques
 
 |Technique|	Purpose|
@@ -34,6 +37,41 @@ Data Analytics Techniques
 |Aggregation & Grouping	|KPI calculations|
 |Data Visualization|	Present business insights|
 |Dashboard Development|	Interactive reporting|
-📉 KPI Monitoring & Visualization
-📂 Data Cleaning & Preprocessing
-📥 Business Insight Generation
+
+Technology Stack
+1] Programming Language
+- Python
+2] Database
+- MySQL
+3] Data Analysis
+- Pandas
+- NumPy
+4] Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+5] Development Environment
+- Jupyter Notebook
+- MySQL Workbench
+
+🗂️ Project Structure
+customer-trends-data-analysis/
+
+data/
+    customers.csv
+    orders.csv
+    products.csv
+
+notebooks/
+    data_cleaning.ipynb
+    exploratory_data_analysis.ipynb
+
+sql/
+    database.sql
+    business_queries.sql
+
+powerbi/
+    Customer_Trends_Dashboard.pbix
+
+README.md
+requirements.txt
