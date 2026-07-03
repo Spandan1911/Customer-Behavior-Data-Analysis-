@@ -25,7 +25,9 @@
 - 📌 SQL-Based Business Analysis
 
 Data Analytics Techniques
+
 |Technique|	Purpose|
+|--------|----------|
 |Data Cleaning|	Remove missing and inconsistent data|
 |Exploratory Data Analysis (EDA)|	Discover trends and patterns|
 |SQL Queries|	Business analysis and reporting|
