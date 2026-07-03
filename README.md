@@ -1,9 +1,9 @@
 # Customer-Behavior-Data-Analysis
 
-📌 Overview
+# 📌 Overview
 - In today's data-driven business environment, organizations generate massive amounts of customer and sales data. Extracting meaningful insights from this data is essential for understanding customer behavior, improving business performance, and making informed strategic decisions. This project presents a comprehensive Customer Trends Data Analysis solution that leverages Python, SQL, and Power BI to analyze customer purchasing patterns, sales performance, and business trends. The project follows a complete data analytics pipeline, including data cleaning, exploratory data analysis (EDA), SQL-based business analysis, interactive dashboard development, and visualization. The insights generated from this analysis help businesses identify high-value customers, optimize sales strategies, monitor key performance indicators (KPIs), and support data-driven decision-making.
-
-🎯 Objectives
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🎯 Objectives
 
 - Clean and preprocess raw customer sales data
 - Perform Exploratory Data Analysis (EDA) using Python
@@ -13,8 +13,8 @@
 - Develop an interactive Power BI dashboard
 - Visualize key business metrics and KPIs
 - Generate actionable business insights for decision-making
-  
-✨ Key Features
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+# ✨ Key Features
 
 - 📊 Interactive Power BI Dashboard
 - 📈 Customer Purchase Trend Analysis
@@ -26,8 +26,8 @@
 - 📉 KPI Monitoring & Visualization
 - 📂 Data Cleaning & Preprocessing
 - 📥 Business Insight Generation
-  
-Data Analytics Techniques
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+# Data Analytics Techniques
 
 |Technique|	Purpose|
 |--------|----------|
@@ -37,8 +37,8 @@ Data Analytics Techniques
 |Aggregation & Grouping	|KPI calculations|
 |Data Visualization|	Present business insights|
 |Dashboard Development|	Interactive reporting|
-
-Technology Stack
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Technology Stack
 1] Programming Language
 - Python
 2] Database
@@ -53,8 +53,8 @@ Technology Stack
 5] Development Environment
 - Jupyter Notebook
 - MySQL Workbench
-
-🗂️ Project Structure
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🗂️ Project Structure
 - customer-trends-data-analysis/
 
 - data/
@@ -75,8 +75,8 @@ Technology Stack
 
 - README.md
 - requirements.txt
-
-⚙️ How It Works
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ⚙️ How It Works
 
 - Step 1 — Import customer, product, and sales datasets
 - Step 2 — Clean missing values, duplicates, and inconsistent records
@@ -88,8 +88,8 @@ Technology Stack
 - Step 8 — Create an interactive Power BI dashboard
 - Step 9 — Visualize KPIs and generate business insights
 - Step 10 — Support data-driven business decision making
-
-🔍 Key Findings / Output
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🔍 Key Findings / Output
 - Customer Purchase Trends
 - Monthly & Yearly Sales Analysis
 - Revenue Distribution
@@ -99,8 +99,8 @@ Technology Stack
 - Customer Lifetime Value Analysis
 - Sales Performance Dashboard
 - Interactive KPI Reports
-
-Application Modules
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Application Modules
 
 1] Data Preprocessing
 - Data Cleaning
@@ -126,8 +126,8 @@ Application Modules
 - Customer Dashboard
 - Product Dashboard
 - KPI Monitoring
-
-Performance Highlights
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Performance Highlights
 - End-to-End Data Analytics Workflow
 - SQL-Based Business Intelligence
 - Interactive Power BI Dashboard
@@ -135,12 +135,12 @@ Performance Highlights
 - Customer Trend Analysis
 - Sales Performance Visualization
 - Data-Driven Decision Support
-
-🔎 Conclusion
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🔎 Conclusion
 
 - This Customer Trends Data Analysis project demonstrates how Python, SQL, and Power BI can be integrated to build a complete business analytics solution. Through data preprocessing, exploratory data analysis, SQL-based reporting, and interactive dashboard visualization, the project provides meaningful insights into customer behavior, sales performance, and business growth. The generated insights enable organizations to improve customer engagement, optimize business strategies, and make informed decisions based on data.
-
-🚀 How to Run
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🚀 How to Run
 - cd customer-trends-data-analysis
 - pip install -r requirements.txt
 
